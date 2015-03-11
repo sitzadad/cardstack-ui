@@ -1,0 +1,17 @@
+{
+  "name": "ui-cardstack",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sitzadad/ui-cardstack",
+  "authors": [
+    "Adam <sitzadam@gmail.com>"
+  ],
+  "description": "Angular module for cardstack ui",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
